@@ -1,4 +1,4 @@
-candycrash
+candycrush
 ==========
 
 Android candy crush game where candy comes from gallery image
